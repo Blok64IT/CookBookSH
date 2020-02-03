@@ -1,0 +1,26 @@
+/*
+Theme Name: CookBook
+Author: Marko Stojanovic
+Description: exercise for SoftwareHouse
+Version: 0.0.1
+Tags: bootstrap
+*/
+
+body {
+  background: #DCDCDC;
+}
+
+header{
+   background: #FFFFFF;
+   width:100%;
+   height:100px;
+}
+ul#menu-top-menu {
+    display: flex;
+    float: right;
+}
+
+.menu li {
+    padding: 15px;
+    display: initial;
+}
